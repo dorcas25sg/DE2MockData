@@ -13,7 +13,7 @@ The mock data includes:
 1. **The original 2 files** from the [DE Assessment Repository](https://github.com/Andylam2963/DE2TechAssessment)
 2. **Additional mocked files** to test file extensions validation and other edge cases
    - *For detailed specifications and implementation details, please refer to the actual submission in the private repository*
-3. **Organized folder structure** with files split into 2 distinct sets:
+3. **Organized folder structure** with files split into 2 sets:
    - Simulates multiple runs of data processing code
    - Allows testing beyond initial full load scenarios
    - Enables validation of incremental processing logic
